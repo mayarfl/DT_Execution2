@@ -46,7 +46,7 @@ XML=
 
 [ExtraFiles]
 Test.tsp=
-DTTest2.xls=
+Default.xls=
 Parameters.mtr=
 Action0\Script.mts=
 Action0\Resource.mtr=
